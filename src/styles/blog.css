@@ -18,10 +18,20 @@ body {
 
 .article__content {
     margin-left: 20px;
+    margin-right: 20px;
 }
 
 .article__footer {
     padding: 0 30px;
+}
+
+.aside_box--dark {
+    background-color: azure;
+    border: 1px solid #333;
+    font-style: italic;
+    font-size: 0.8em;
+    margin: 10px;
+    padding: 10px;
 }
 
 .goldenrod {
