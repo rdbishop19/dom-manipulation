@@ -1,6 +1,11 @@
-/* body {
-    background-color: aquamarine;
-} */
+body {
+    /* background-color: aquamarine; */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.important {
+    padding: 10px 0px;
+    font-size: 1.5em;
+}
 
 .article {
     padding: 10px;
@@ -9,6 +14,10 @@
 
 .article__header {
     font-size: 1.5em;
+}
+
+.article__content {
+    margin-left: 20px;
 }
 
 .article__footer {
